@@ -24,6 +24,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <Link to="/" className="text-white">
+            <img src="public/OR-Transparent-Horizontal.png" alt="Logo" style={{ height: '40px', marginRight: '10px' }} />
             <h1 className="text-2xl font-serif font-semibold tracking-wider">OBSIDIAN ROWE</h1>
           </Link>
 
