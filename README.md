@@ -2,19 +2,6 @@
 <img width="1200" height="475" alt="OR Banner" src="" />
 </div>
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1G2nNQuba0e_ecm0xBPtSLp3qmJTpgA1v
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+# Obsidian Rowe Website V1
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
